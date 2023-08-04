@@ -1,5 +1,5 @@
 {
-  "name": "node-rdkafka",
+  "name": "@nora/node-rdkafka",
   "version": "v2.17.0",
   "description": "Node.js bindings for librdkafka",
   "librdkafka": "2.2.0",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:Blizzard/node-rdkafka.git"
+    "url": "https://github.com/lyanmay/node-rdkafka.git"
   },
   "contributors": [
     {
